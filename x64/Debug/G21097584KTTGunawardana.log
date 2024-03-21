@@ -1,0 +1,11 @@
+﻿  G21097584KTTGunawardana.cpp
+C:\Users\tavin\OneDrive\Desktop\secondyearlecturenotes\Advanced Programming\G21097584KTTGunawardana\G21097584KTTGunawardana\G21097584KTTGunawardana.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tavin\OneDrive\Desktop\secondyearlecturenotes\Advanced Programming\G21097584KTTGunawardana\G21097584KTTGunawardana\G21097584KTTGunawardana.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tavin\OneDrive\Desktop\secondyearlecturenotes\Advanced Programming\G21097584KTTGunawardana\G21097584KTTGunawardana\CPlayerHeader.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'G21097584KTTGunawardana.cpp')
+  
+C:\Users\tavin\OneDrive\Desktop\secondyearlecturenotes\Advanced Programming\G21097584KTTGunawardana\G21097584KTTGunawardana\G21097584KTTGunawardana.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tavin\OneDrive\Desktop\secondyearlecturenotes\Advanced Programming\G21097584KTTGunawardana\G21097584KTTGunawardana\CAssessmentHeader.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'G21097584KTTGunawardana.cpp')
+  
+  G21097584KTTGunawardana.vcxproj -> C:\Users\tavin\OneDrive\Desktop\secondyearlecturenotes\Advanced Programming\G21097584KTTGunawardana\x64\Debug\G21097584KTTGunawardana.exe
